@@ -7,6 +7,8 @@
 
 **Advanced Phishing Detection & URL Analyzer** — Detect phishing URLs, suspicious emails, and credential harvesting attempts using multi-layered heuristic analysis.
 
+> **Also in redx.** This tool has been ported into [redx](https://github.com/redX000/redx) — a local security toolkit with a web UI — as its **Phishing Inspector** module.
+
 ## 🔥 Features
 
 - 🔗 **URL Analysis** — Extract 25+ features from any URL including entropy, homoglyphs, punycode, brand impersonation
